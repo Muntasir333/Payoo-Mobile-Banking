@@ -12,7 +12,7 @@ document.getElementById('login-btn').addEventListener('click', function(){
         window.location.assign("home.html")
     }
     else{
-        alert('mara kha')
+        alert('wrong credentials')
         return;
     }
 })
